@@ -1,6 +1,6 @@
 # README: Data Directory
 
-This directory contains the data used in the article **van Broekhoven et al. (2024) Linking Recharge Water Sources to Groundwater Composition in the Hindon Subbasin of the Ganges River, India** (DOI: [DOI link]).
+This directory contains the data used in the article **van Broekhoven et al. (2024) Linking Recharge Water Sources to Groundwater Composition in the Hindon Subbasin of the Ganges River, India** (DOI: https://doi.org/10.1016/j.scitotenv.2024.176399).
 
 This repository provides the datasets used in the publication of our research article. The data is organized into several CSV files, each corresponding to different aspects of our study. We hope that this data can be useful for other researchers and practitioners in the field. Feel free to explore and analyze the data as needed. If you use this data in your own research, please cite our article.
 
