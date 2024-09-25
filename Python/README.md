@@ -1,6 +1,6 @@
 # README: Python scripts
 
-These Python scripts were utilized for the analysis presented in the article **van Broekhoven et al. (2024) Linking Recharge Water Sources to Groundwater Composition in the Hindon Subbasin of the Ganges River, India** (DOI: [insert DOI here]).
+These Python scripts were utilized for the analysis presented in the article **van Broekhoven et al. (2024) Linking Recharge Water Sources to Groundwater Composition in the Hindon Subbasin of the Ganges River, India** (DOI: https://doi.org/10.1016/j.scitotenv.2024.176399).
 
 ## Usage
 
